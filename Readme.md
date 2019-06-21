@@ -5,6 +5,9 @@
 * [Default.aspx.cs](./CS/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/Default.aspx.vb))
 <!-- default file list end -->
 # ASPxFileManager - A simple implementation of ItemTemplate for the Details View
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/t542364/)**
+<!-- run online end -->
 
 
 <p>This example demonstrates how to implement ItemTemplate of <a href="https://documentation.devexpress.com/AspNet/CustomDocument9030.aspx">ASPxFileManager</a> in Details View mode. </p>
