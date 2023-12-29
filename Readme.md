@@ -1,8 +1,3 @@
-<!-- default badges list -->
-![](https://img.shields.io/endpoint?url=https://codecentral.devexpress.com/api/v1/VersionRange/128565894/15.1.3%2B)
-[![](https://img.shields.io/badge/Open_in_DevExpress_Support_Center-FF7200?style=flat-square&logo=DevExpress&logoColor=white)](https://supportcenter.devexpress.com/ticket/details/T542364)
-[![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
-<!-- default badges end -->
 <!-- default file list -->
 *Files to look at*:
 
@@ -10,9 +5,6 @@
 * [Default.aspx.cs](./CS/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/Default.aspx.vb))
 <!-- default file list end -->
 # ASPxFileManager - A simple implementation of ItemTemplate for the Details View
-<!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/t542364/)**
-<!-- run online end -->
 
 
 <p>This example demonstrates how to implement ItemTemplate of <a href="https://documentation.devexpress.com/AspNet/CustomDocument9030.aspx">ASPxFileManager</a> in Details View mode. </p>
